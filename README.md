@@ -1,5 +1,5 @@
 <h1 align="center"> Banco de Dados no MySQL </h1>
-<h2> Nesse repositório vamos treinar com um pequeno Banco de Dados</h2>
+<h3> Nesse repositório vamos treinar com um pequeno Banco de Dados</h3>
 <h3> Utilizaremos alguns comandos como por exemplo:</h3>
 <p> CREATE DATABASE </p>
 <p> CREATE TABLE </p>
