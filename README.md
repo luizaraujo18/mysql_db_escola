@@ -1,5 +1,6 @@
-<h1 align="center"> Um Pequeno Banco de Dados no MySQL </h1>
+<h1 align="center"> Banco de Dados no MySQL </h1>
 <h2> Nesse repositório vamos treinar com um pequeno Banco de Dados</h2>
+<h3> Utilizaremos alguns comandos como por exemplo:</h3>
 
   <p align="center">
     <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
