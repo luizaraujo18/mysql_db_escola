@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS tb_professores (
+	id INT PRIMARY KEY AUTO_INCREMENT, 
+	nome VARCHAR(150) NOT NULL, 
+	especialidade VARCHAR(150) 
+);
