@@ -15,3 +15,4 @@
   <img align="center" alt="Luiz-Mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   
   </div>
+![db_escola](https://github.com/user-attachments/assets/7948e698-c38d-4e2e-9d92-3198e8f5e0ff)
