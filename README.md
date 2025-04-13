@@ -1,9 +1,9 @@
-<h1 align="center"> Banco de Dados no MySQL </h1>
-<h3> Nesse repositório vamos treinar com um pequeno Banco de Dados</h3>
-<h3> Utilizaremos alguns comandos como por exemplo:</h3>
-<p> CREATE DATABASE </p>
-<p> CREATE TABLE </p>
-<p> INSERT INTO </p>
+# Banco de Dados no MySQL
+## Nesse repositório vamos treinar com um pequeno Banco de Dados
+### Utilizaremos alguns comandos como por exemplo:
+- CREATE DATABASE
+- CREATE TABLE
+- INSERT INTO
 
   <p align="center">
     <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
